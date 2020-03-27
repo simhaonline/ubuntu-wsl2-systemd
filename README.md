@@ -1,4 +1,4 @@
-# ubuntu-wsl2-systemd-script
+# ubuntu-wsl2-systemd
 Script to enable systemd support on current Ubuntu WSL2 images from the Windows store. 
 Tested on 18.04 and the versionless (current) version of Ubuntu from the Windows Store.
 I am not responsible for broken installations, fights with your roommates and police ringing your door ;-).
