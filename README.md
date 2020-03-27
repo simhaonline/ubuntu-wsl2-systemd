@@ -10,6 +10,7 @@ sudo bash wsl2-systemd.sh
 # Enter your password and wait until the script has finished
 cmd.exe /C setx WSLENV BASH_ENV/u
 cmd.exe /C setx BASH_ENV /etc/bash.bashrc
+rm -rf cd wsl2-systemd
 ```
 ### Then restart the shell and try running systemctl
 ```sh
