@@ -1,5 +1,5 @@
 # wsl2-systemd
-Script to enable systemd support on current Ubuntu WSL2 images from the Windows store. 
+Script to enable systemd support on current WSL2 images. 
 
 # Usage
 ### Run the script and commands
