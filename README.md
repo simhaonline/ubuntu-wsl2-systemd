@@ -10,7 +10,7 @@ Instructions from [the snapcraft forum](https://forum.snapcraft.io/t/running-sna
 ```sh
 git clone https://github.com/simhaonline/ubuntu-wsl2-systemd.git
 cd ubuntu-wsl2-systemd-script/
-sudo bash ubuntu-wsl2-systemd-script.sh
+sudo bash ubuntu-wsl2-systemd.sh
 # Enter your password and wait until the script has finished
 cmd.exe /C setx WSLENV BASH_ENV/u
 cmd.exe /C setx BASH_ENV /etc/bash.bashrc
